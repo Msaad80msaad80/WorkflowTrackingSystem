@@ -1,0 +1,11 @@
+# .NET Core / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+.vscode/
+*.db
+*.log
+appsettings.Development.json
+*.DS_Store
